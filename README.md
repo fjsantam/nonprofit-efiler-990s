@@ -1,5 +1,5 @@
 # nonprofit-efiler-990s
-Demonstration of tools that can be used to identify efiled IRS 990 tax returns and matching them to EINs.
+Demonstration of tools that can be used to identify efiled IRS 990 tax returns and matching them to EINs, as well as exploration of RStudio's ability to run both R and Python code.
 
 [Link to the project](https://fjsantam.github.io/nonprofit-efiler-990s/Identifying-EINs-with-efiler-data-210310.html)
 
