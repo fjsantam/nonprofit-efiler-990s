@@ -1,6 +1,8 @@
 # nonprofit-efiler-990s
 Demonstration of tools that can be used to identify efiled IRS 990 tax returns and matching them to EINs.
 
+[Link to the project](https://fjsantam.github.io/nonprofit-efiler-990s/Identifying-EINs-with-efiler-data-210310.html)
+
 ## About this project
 
 Part of this work was inspired by requests from [Dr. David Suarez](https://evans.uw.edu/profile/david-suarez/) on how to identify whether organizations have efiled annual tax returns and, if they have, the most recent year of available data. Special thanks to [Dr. Jesse Lecy](http://www.lecy.info/) and the [Nonprofit Open Data Collective](https://nonprofit-open-data-collective.github.io/) for hosting data and code, as well as [Dr. David Borenstein](https://www.open990.org/contact/) (please review his overview articles on [what the IRS 990 efile dataset is](https://medium.com/@borenstein/the-irs-990-e-file-dataset-getting-to-the-chocolatey-center-of-data-deliciousness-90f66097a600) and [why the IRS-provided index files are flawed](https://appliednonprofitresearch.com/posts/2020/06/skip-the-irs-990-efile-indices/)).
